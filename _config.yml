@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Martina's Documentation site for the Bio-Hack Academy
+title:            Bio-Hack Academy adventure in Saõ Paulo
 locale:           en_US
 url:              http://martinaws.github.io/
 
@@ -32,7 +32,7 @@ owner:
   email: martina.ferracane@gmail.com
   disqus-shortname: martinaws
   twitter: #martinaws
-  facebook: #martinaws
+  facebook: https://www.facebook.com/martinaws
   google:
     plus: #username
     analytics: 
